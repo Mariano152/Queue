@@ -1,0 +1,3 @@
+D:/C/C++ algoritmos/Queue/cmake-build-debug/CMakeFiles/Queue.dir
+D:/C/C++ algoritmos/Queue/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/C/C++ algoritmos/Queue/cmake-build-debug/CMakeFiles/rebuild_cache.dir
